@@ -1,13 +1,12 @@
-# best-practices-after-new-os
+# best-practices-for-fresh-os
 What should users do after install a new os
----
-
-### Best Practices for installing *Needed Softwares* after new os
-Compares *free* and *premium($)* softwares in diff categories
-Common softwares for diff users roles
-
-### Best Practices for *Security Principles* after new os
 
 
+### Best Practices after install a new os
+ - Compares *free* and *premium($)* softwares 
+ - Common softwares for diff users roles
+	 - Home users tools
+	 - Developer tools
+	 - Network Admin tools
+	 - ...
 
-# This isn't complete yet.....
