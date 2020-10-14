@@ -1,0 +1,26 @@
+
+*** Dotnet
+-------------------------------------
+C:\_Publishes
+C:\Users\[user]\source
+C:\Users\[user]\.dotnet\tools
+
+
+*** Docker and wsl
+-------------------------------------
+\\wsl$
+C:\docker-volume-1
+
+
+
+*** NodeJS
+-------------------------------------
+C:\Users\[user]\AppData\Roaming\npm
+npm i windows-build-tools -g --production
+npm i yarn -g
+npm i create-react-app -g
+npm i -g sass
+npm i -g typescript
+
+
+
